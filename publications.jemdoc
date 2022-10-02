@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications
+
+== Preprints
+. [https://arxiv.org/pdf/2206.02887.pdf Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks] \n
+Xiang Ji, *Minshuo Chen*, Mengdi Wang, and Tuo Zhao \n
+. [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
+*Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
+. [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
+Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
+
+== Journal Papers
+. [https://arxiv.org/pdf/1908.01842.pdf Nonparametric Regression on Low-Dimensional Manifolds using Deep ReLU Networks : Function Approximation and Statistical Recovery] \n
+*Minshuo Chen*, Haoming Jiang, Wenjing Liao, and Tuo Zhao \n
+/IMA, Information and Inference/, 2022
+. [https://arxiv.org/pdf/2011.01797.pdf Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks] \n
+*Minshuo Chen*, Hao Liu, Wenjing Liao, and Tuo Zhao \n
+/Submitted to Operations Research, under revision/
+
+== Conference Papers
+. [https://arxiv.org/pdf/2206.04569.pdf Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint] \n
+Hao Liu, *Minshuo Chen*, Siawpeng Er, Wenjing Liao, Tong Zhang, and Tuo Zhao \n
+/International Conference on Machine Learning (ICML)/, 2022 \n
+. [https://arxiv.org/pdf/2110.03677.pdf Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect] \n
+Yuqing Wang, *Minshuo Chen*, Tuo Zhao, and Molei Tao \n
+/International Conference on Learning Representations (ICLR)/, 2022 \n
+. [https://proceedings.neurips.cc/paper/2021/file/9559fc73b13fa721a816958488a5b449-Paper.pdf Pessimism Meets Invariance: Provably Efficient Offline Mean-Field Multi-Agent RL] \n
+*Minshuo Chen*, Yan Li, Ethan Wang, Zhuoran Yang, Zhaoran Wang, and Tuo Zhao \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2021 \n
+. [https://arxiv.org/pdf/2010.05843.pdf How Important is the Train-Validation Split in Meta-Learning] \n
+Yu Bai, *Minshuo Chen*, Pan Zhou, Tuo Zhao, Jason D. Lee, Sham Kakade, Huan Wang, and Caiming Xiong \n
+/International Conference on Machine Learning (ICML)/, 2021 \n
+. [https://arxiv.org/pdf/2109.02832.pdf Besov Function Approximation and Binary Classification on Low-Dimensional Manifolds Using Convolutional Residual Networks] \n
+Hao Liu, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
+/International Conference on Machine Learning (ICML)/, 2021 \n
+. [https://arxiv.org/pdf/2006.13436.pdf Towards Understanding Hierarchical Learning: Benefits of Neural Representations] \n
+*Minshuo Chen*, Yu Bai, Jason D. Lee, Tuo Zhao, Huan Wang, Caiming Xiong, and Richard Socher \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2020 \n
+. [https://arxiv.org/pdf/2002.06504.pdf Differentiable Top-k Operator with Optimal Transport] \n
+Yujia Xie, Hanjun Dai, *Minshuo Chen*, Bo Dai, Tuo Zhao, Hongyuan Zha, Wei Wei, Tomas Pfister \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2020 \n
+. [https://arxiv.org/pdf/1910.12947.pdf On Generalization Bounds of a Family of Recurrent Neural Networks] \n
+*Minshuo Chen*, Xingguo Li, and Tuo Zhao \n
+/International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2020
+. [https://arxiv.org/pdf/2001.02792.pdf On Computation and Generalization of Generative Adversarial Imitation Learning] \n
+*Minshuo Chen*, Yizhou Wang, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang, and Tuo Zhao \n
+/International Conference on Learning Representations (ICLR)/, 2020
+. [https://papers.nips.cc/paper/9028-efficient-approximation-of-deep-relu-networks-for-functions-on-low-dimensional-manifolds Efficient Approximation of Deep ReLU Networks for Functions on Low Dimensional Manifolds] \n
+*Minshuo Chen*, Haoming Jiang, Wenjing Liao, and Tuo Zhao (Alphabetical Order) \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2019
+. [https://arxiv.org/pdf/1909.04653.pdf Towards Understanding the Importance of Shortcut Connections in Residual Networks] \n
+Tianyi Liu\*, *Minshuo Chen*\*, Mo Zhou, Simon Du, Enlu Zhou, and Tuo Zhao (\* Equal Contribution) \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2019
+. [https://arxiv.org/pdf/1905.00158.pdf On Scalable and Efficient Computation of Large Scale Optimal Transport] \n
+Yujia Xie, *Minshuo Chen*, Haoming Jiang, Tuo Zhao, and Hongyuan Zha \n
+/International Conference on Machine Learning (ICML)/, 2019
+. [https://arxiv.org/pdf/1812.10912.pdf On Computation and Generalization of Generative Adversarial Networks under Spectrum Control] \n
+Haoming Jiang, Zhehui Chen, *Minshuo Chen*, Feng Liu, Dingding Wang, and Tuo Zhao \n
+/International Conference on Learning Representations (ICLR)/, 2019
+. [https://arxiv.org/pdf/1803.02312.pdf Dimensionality Reduction for Stationary Time Series via Stochastic Nonconvex Optimization] \n
+*Minshuo Chen*, Lin Yang, Mengdi Wang, and Tuo Zhao \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2018
