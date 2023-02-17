@@ -2,8 +2,6 @@
 = Publications
 
 == Preprints
-. [https://arxiv.org/pdf/2206.02887.pdf Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks] \n
-Xiang Ji, *Minshuo Chen*, Mengdi Wang, and Tuo Zhao \n
 . [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
 *Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
 . [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
@@ -18,6 +16,15 @@ Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
 /Submitted to Operations Research, under revision/
 
 == Conference Papers
+. [https://openreview.net/forum?id=lq62uWRJjiY Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning] \n
+Qingru Zhang, *Minshuo Chen*, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, and Tuo Zhao \n
+/International Conference on Learning Representations (ICLR)/, 2023 \n
+. [https://arxiv.org/pdf/2206.02887.pdf Sample Complexity of Nonparametric Off-Policy Evaluation on Low-Dimensional Manifolds using Deep Networks] \n
+Xiang Ji, *Minshuo Chen*, Mengdi Wang, and Tuo Zhao \n
+/International Conference on Learning Representations (ICLR)/, 2023 \n
+. [https://openreview.net/pdf?id=4n1PS9WvdYv On Deep Generative Models for Approximation and Estimation of Distributions on Manifolds] \n
+Biraj Dahal, Alex Havrilla, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2022 \n
 . [https://arxiv.org/pdf/2206.04569.pdf Benefits of Overparameterized Convolutional Residual Networks: Function Approximation under Smoothness Constraint] \n
 Hao Liu, *Minshuo Chen*, Siawpeng Er, Wenjing Liao, Tong Zhang, and Tuo Zhao \n
 /International Conference on Machine Learning (ICML)/, 2022 \n
