@@ -2,8 +2,6 @@
 = Publications
 
 == Preprints
-. [https://arxiv.org/pdf/2302.07194.pdf Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data] \n
-*Minshuo Chen*\*, Kaixuan Huang\*, Tuo Zhao, and Mengdi Wang (\* Equal Contribution) \n
 . [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
 *Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
 . [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
@@ -21,6 +19,12 @@ Jie Wang, *Minshuo Chen*, Tuo Zhao, Wenjing Liao, Yao Xie \n
 /Submitted to Mathematics of Operations Research/
 
 == Conference Papers
+. [https://arxiv.org/pdf/2302.07194.pdf Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data] \n
+*Minshuo Chen*\*, Kaixuan Huang\*, Tuo Zhao, and Mengdi Wang (\* Equal Contribution) \n
+/International Conference on Machine Learning (ICML)/, 2023 \n
+. [Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories] \n
+Zixuan Zhang, *Minshuo Chen*, Mengdi Wang, Wenjing Liao, and Tuo Zhao \n
+/International Conference on Machine Learning (ICML)/, 2023 \n
 . [https://openreview.net/forum?id=lq62uWRJjiY Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning] \n
 Qingru Zhang, *Minshuo Chen*, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, and Tuo Zhao \n
 /International Conference on Learning Representations (ICLR)/, 2023 \n
