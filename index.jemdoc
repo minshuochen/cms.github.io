@@ -6,16 +6,18 @@
 Minshuo Chen {{<span lang="ch" xml:lang="ch">}}陈旻硕{{</span>}} \n
 Electrical and Computer Engineering \n
 Princeton University \n
-Email: /mc0750/ (AT) /princeton/ (DOT) /edu/ \n
+Email: /minshuochen/ (AT) /princeton/ (DOT) /edu/ \n
+\n
+*I am on the 2023-2024 job market.* \n
 ~~~
 
 == About Me
-I am a Postdoctoral Research Associate at Princeton ECE, working with Prof. [https://ece.princeton.edu/people/mengdi-wang/ Mengdi Wang]. I obtained my Ph.D. from Georgia Tech, under the supervision of Prof. [https://www2.isye.gatech.edu/~tzhao80/ Tuo Zhao] and Prof. [https://wliao60.math.gatech.edu/ Wenjing Liao]. I also received a Master's degree in Electrical Engineering from UCLA, and Bachelor's degree in Electrical and Information Engineering from Zhejiang University. Here is my [CV_cms.pdf CV].
+I am an Associate Research Scholar at Princeton ECE, working with Prof. [https://ece.princeton.edu/people/mengdi-wang/ Mengdi Wang]. I obtained my Ph.D. from Georgia Tech, under the supervision of Prof. [https://www2.isye.gatech.edu/~tzhao80/ Tuo Zhao] and Prof. [https://wliao60.math.gatech.edu/ Wenjing Liao]. I also received a Master's degree in Electrical Engineering from UCLA, and Bachelor's degree in Electrical and Information Engineering from Zhejiang University. Here is my [CV_cms.pdf CV].
 
 My research focuses on developing principled methodologies and theoretical foundations of deep learning. I am particularly interested in
-- function approximation theory of neural networks and their statistical guarantees in learning applications
+- approximation theory and statistical sample complexities of neural networks
+- diffusion models for distribution estimation and black-box optimization
 - (deep) reinforcement learning
-- nonconvex optimization
 
 == Awards
 - ARC-TRIAD Student Fellowship
