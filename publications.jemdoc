@@ -4,21 +4,37 @@
 == Preprints
 . [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
 *Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
-. [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
-Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
 
 == Journal Papers
-. [https://arxiv.org/pdf/2205.02043.pdf A Manifold Two-Sample Test Study: Integral Probability Metric with Neural Networks] \n
-Jie Wang, *Minshuo Chen*, Tuo Zhao, Wenjing Liao, Yao Xie \n
-/IMA, Information and Inference/, forthcoming \n
 . [https://arxiv.org/pdf/1908.01842.pdf Nonparametric Regression on Low-Dimensional Manifolds using Deep ReLU Networks : Function Approximation and Statistical Recovery] \n
 *Minshuo Chen*, Haoming Jiang, Wenjing Liao, and Tuo Zhao \n
 /IMA, Information and Inference/, 2022 \n
+. [https://arxiv.org/pdf/2205.02043.pdf A Manifold Two-Sample Test Study: Integral Probability Metric with Neural Networks] \n
+Jie Wang, *Minshuo Chen*, Tuo Zhao, Wenjing Liao, Yao Xie \n
+/IMA, Information and Inference/, 2023 \n
+. [https://arxiv.org/pdf/2212.00700.pdf High Dimensional Binary Classification under Label Shift: Phase Transition and Regularization] \n
+Jiahui Cheng, *Minshuo Chen*, Hao Liu, Tuo Zhao, Wenjing Liao \n
+/Sampling Theory, Signal Processing, and Data Analysis/, 2023 \n
 . [https://arxiv.org/pdf/2011.01797.pdf Doubly Robust Off-Policy Learning on Low-Dimensional Manifolds by Deep Neural Networks] \n
 *Minshuo Chen*, Hao Liu, Wenjing Liao, and Tuo Zhao \n
-/Submitted to Mathematics of Operations Research/
+/Submitted to Mathematics of Operations Research/ \n
+. [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
+Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
+/Submitted to Journal of Machine Learning Research/ \n
+. Transition-Consistent Pessimistic Nonparametric Policy Learning in Partially Observed MDPs using Neural Networks \n
+*Minshuo Chen*, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan, and Tuo Zhao \n
+/Submitted to Journal of Machine Learning Research/ \n
+. [https://arxiv.org/pdf/2306.01243.pdf Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations] \n
+*Minshuo Chen*, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
+/Submitted to IEEE Transactions on Information Theory/
 
 == Conference Papers
+. [https://arxiv.org/pdf/2307.07055.pdf Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement] \n
+Hui Yuan, Kaixuan Huang, Chengzhuo Ni, *Minshuo Chen*, and Mengdi Wang \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2023 \n
+. [https://arxiv.org/pdf/2306.01243.pdf Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations] \n
+*Minshuo Chen*, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2023 \n
 . [https://arxiv.org/pdf/2302.07194.pdf Score Approximation, Estimation and Distribution Recovery of Diffusion Models on Low-Dimensional Data] \n
 *Minshuo Chen*\*, Kaixuan Huang\*, Tuo Zhao, and Mengdi Wang (\* Equal Contribution) \n
 /International Conference on Machine Learning (ICML)/, 2023 \n
