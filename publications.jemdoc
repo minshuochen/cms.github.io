@@ -8,6 +8,8 @@ Jiacheng Guo, *Minshuo Chen*, Huan Wang, Caiming Xiong, Mengdi Wang, and Yu Bai 
 Xiang Ji, Huazheng Wang, *Minshuo Chen*, Tuo Zhao, and Mengdi Wang \n
 . [https://arxiv.org/pdf/2309.13915.pdf Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds] \n
 Zhenghao Xu, Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao \n
+. Transition-Consistent Pessimistic Nonparametric Policy Learning in Partially Observed MDPs using Neural Networks \n
+*Minshuo Chen*, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan, and Tuo Zhao \n
 . [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
 *Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
 
@@ -27,9 +29,6 @@ Jiahui Cheng, *Minshuo Chen*, Hao Liu, Tuo Zhao, Wenjing Liao \n
 . [https://arxiv.org/pdf/2201.00217.pdf Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces] \n
 Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
 /Accept with minor revision, Journal of Machine Learning Research/ \n
-. Transition-Consistent Pessimistic Nonparametric Policy Learning in Partially Observed MDPs using Neural Networks \n
-*Minshuo Chen*, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan, and Tuo Zhao \n
-/Submitted to Journal of Machine Learning Research/ \n
 . [https://arxiv.org/pdf/2306.01243.pdf Efficient RL with Impaired Observability: Learning to Act with Delayed and Missing State Observations] \n
 *Minshuo Chen*, Jie Meng, Yu Bai, Yinyu Ye, H. Vincent Poor, and Mengdi Wang \n
 /Submitted to IEEE Transactions on Information Theory/
