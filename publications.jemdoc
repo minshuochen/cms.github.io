@@ -2,8 +2,6 @@
 = Publications
 
 == Preprints
-. [https://arxiv.org/pdf/2307.02884.pdf Sample-Efficient Learning of POMDPs with Multiple Observations In Hindsight] \n
-Jiacheng Guo, *Minshuo Chen*, Huan Wang, Caiming Xiong, Mengdi Wang, and Yu Bai \n
 . [https://arxiv.org/pdf/2307.12975.pdf Provable Benefits of Policy Learning from Human Preferences in Contextual Bandit Problems] \n
 Xiang Ji, Huazheng Wang, *Minshuo Chen*, Tuo Zhao, and Mengdi Wang \n
 . [https://arxiv.org/pdf/2309.13915.pdf Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds] \n
@@ -34,6 +32,9 @@ Hao Liu, Haizhao Yang, *Minshuo Chen*, Tuo Zhao, and Wenjing Liao \n
 /Submitted to IEEE Transactions on Information Theory/
 
 == Conference Papers
+. [https://arxiv.org/pdf/2307.02884.pdf Sample-Efficient Learning of POMDPs with Multiple Observations In Hindsight] \n
+Jiacheng Guo, *Minshuo Chen*, Huan Wang, Caiming Xiong, Mengdi Wang, and Yu Bai \n
+/International Conference on Learning Representations (ICLR)/, 2024 \n
 . [https://arxiv.org/pdf/2307.07055.pdf Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement] \n
 Hui Yuan, Kaixuan Huang, Chengzhuo Ni, *Minshuo Chen*, and Mengdi Wang \n
 /Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2023 \n
