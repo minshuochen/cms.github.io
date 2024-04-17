@@ -2,12 +2,16 @@
 = Publications
 
 == Preprints
+. [https://arxiv.org/pdf/2404.07771.pdf An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization] \n
+*Minshuo Chen*, Song Mei, Jianqing Fan, and Mengdi Wang \n
+. [https://arxiv.org/pdf/2403.11968.pdf Unveil Conditional Diffusion Models with Classifier-free Guidance: A Sharp Statistical Theory] \n
+Hengyu Fu, Zhuoran Yang, Mengdi Wang, and *Minshuo Chen* \n
+. [https://arxiv.org/pdf/2403.01639.pdf Theoretical Insights for Diffusion Guidance: A Case Study for Gaussian Mixture Models] \n
+Yuchen Wu, *Minshuo Chen*, Zihao Li, Mengdi Wang, and Yuting Wei \n
 . [https://arxiv.org/pdf/2307.12975.pdf Provable Benefits of Policy Learning from Human Preferences in Contextual Bandit Problems] \n
 Xiang Ji, Huazheng Wang, *Minshuo Chen*, Tuo Zhao, and Mengdi Wang \n
 . [https://arxiv.org/pdf/2309.13915.pdf Sample Complexity of Neural Policy Mirror Descent for Policy Optimization on Low-Dimensional Manifolds] \n
 Zhenghao Xu, Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao \n
-. Transition-Consistent Pessimistic Nonparametric Policy Learning in Partially Observed MDPs using Neural Networks \n
-*Minshuo Chen*, Zhuoran Yang, Zhaoran Wang, Michael I. Jordan, and Tuo Zhao \n
 . [https://arxiv.org/pdf/2002.03938.pdf Distribution Approximation and Statistical Estimation Guarantees of Generative Adversarial Networks] \n
 *Minshuo Chen*, Wenjing Liao, Hongyuan Zha, and Tuo Zhao \n
 
