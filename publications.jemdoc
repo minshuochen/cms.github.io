@@ -4,8 +4,6 @@
 == Preprints
 . [https://arxiv.org/pdf/2407.16134 Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data] \n
 Hengyu Fu, Zehao Dou, Jiawei Guo, Mengdi Wang, and *Minshuo Chen* \n
-. [https://arxiv.org/pdf/2404.14743 Gradient Guidance for Diffusion Models: An Optimization Perspective] \n
-Yingqing Guo, Hui Yuan, Yukang Yang, *Minshuo Chen*, and Mengdi Wang \n
 . [https://arxiv.org/pdf/2403.11968.pdf Unveil Conditional Diffusion Models with Classifier-free Guidance: A Sharp Statistical Theory] \n
 Hengyu Fu, Zhuoran Yang, Mengdi Wang, and *Minshuo Chen* \n
 . [https://arxiv.org/pdf/2307.12975.pdf Provable Benefits of Policy Learning from Human Preferences in Contextual Bandit Problems] \n
@@ -40,6 +38,9 @@ Zhenghao Xu, Xiang Ji, Minshuo Chen, Mengdi Wang, and Tuo Zhao \n
 /Journal of Machine Learning Research/, 2024 \n
 
 == Conference Papers
+. [https://arxiv.org/pdf/2404.14743 Gradient Guidance for Diffusion Models: An Optimization Perspective] \n
+Yingqing Guo, Hui Yuan, Yukang Yang, *Minshuo Chen*, and Mengdi Wang \n
+/Annual Conference on Neural Information Processing Systems (NeurIPS)/, 2024 \n 
 . [https://arxiv.org/pdf/2406.16213 Provable Statistical Rates for Consistency Diffusion Models] \n
 Zehao Dou, *Minshuo Chen*, Mengdi Wang, and Zhuoran Yang \n
 /International Conference on Machine Learning (ICML)/, 2024 \n
